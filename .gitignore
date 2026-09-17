@@ -1,0 +1,5 @@
+/target
+/logs/
+/failed_logs.json
+/failed_logs.json.tmp
+.env
